@@ -82,9 +82,9 @@
 
 **Note:** You need to perform this step for every user if you want to change the destination path for every user. Make sure One Drive is setup for every destination user.
 
-•	Now click on map identities. A Map Identities window will open.
-•	Click on the Domain field if you want to change domain of the Microsoft 365, otherwise leave it unchanged.
-•	In Groups, if you have groups in Google Workspace, then select it and map the group.
+* Now click on map identities. A Map Identities window will open.
+* Click on the Domain field if you want to change domain of the Microsoft 365, otherwise leave it unchanged.
+* In Groups, if you have groups in Google Workspace, then select it and map the group.
 
 
 

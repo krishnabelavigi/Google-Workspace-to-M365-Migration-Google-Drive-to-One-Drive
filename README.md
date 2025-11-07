@@ -44,6 +44,19 @@
 
 # **2.	Connect to Google Workspace to Migrate Google Drive to OneDrive**
 
+<img width="940" height="561" alt="image" src="https://github.com/user-attachments/assets/944febd3-30b0-4aec-8756-fbecb0c225f2" />
+
+* Now it will ask to authenticate your Google Workspace account, click on Sign in to Google Workspace and sign in with your Google Workspace Admin account.
+
+<img width="896" height="534" alt="image" src="https://github.com/user-attachments/assets/ac902dcb-a535-4cc4-8e66-19b65c21bd31" />
+
+* Once signed in, it will show a window showing Connected to Google workspace. Click on the finish button.
+
+<img width="940" height="498" alt="image" src="https://github.com/user-attachments/assets/110314a3-33d4-4d78-bdca-f88e914f8491" />
+
+
+
+
 
 
 

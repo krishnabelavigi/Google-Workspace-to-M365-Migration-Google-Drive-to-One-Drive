@@ -86,6 +86,27 @@
 * Click on the Domain field if you want to change domain of the Microsoft 365, otherwise leave it unchanged.
 * In Groups, if you have groups in Google Workspace, then select it and map the group.
 
+<img width="940" height="410" alt="image" src="https://github.com/user-attachments/assets/3912df9a-92ae-474a-824a-607563383c02" />
+
+* Now go back to the migration tab and select drives and click on the migrate option. A new window will open, asking for confirmation. Again, click on the migrate button.
+
+<img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/fee7a3da-21e6-4635-8605-a33a8d68a6e9" />
+
+* It will process the tasks and take time, depending on your data size. Once completed, you will see the migration status as completed with details of the data migrated.
+
+<img width="940" height="521" alt="image" src="https://github.com/user-attachments/assets/4836a57c-dc58-4d45-a247-9090b843bf38" />
+
+* With the above-listed steps, you can migrate your Google Workspace drive content to OneDrive for business.
+
+# **Conclusion**
+
+* Migrating your Google Drive to OneDrive for business is a great way to get access to the powerful cloud storage and collaboration tools offered by Microsoft. With a few simple steps, you can migrate your data from Google Workspace drive to OneDrive for business. Taking the time to complete this process will ensure you are able to maximize the potential of the tools offered in Office 365. With the tools and features of Office 365 at your disposal, you will be ready to get the most out of your organization.
+
+
+
+
+
+
 
 
 

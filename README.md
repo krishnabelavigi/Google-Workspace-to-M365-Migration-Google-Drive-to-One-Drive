@@ -12,3 +12,18 @@
 
 <img width="940" height="506" alt="image" src="https://github.com/user-attachments/assets/21655511-1106-4ae6-9ed9-4224a4a0e997" />
 
+* Now click on show all and select SharePoint from the left panel.
+
+<img width="940" height="589" alt="image" src="https://github.com/user-attachments/assets/fa3eaae7-230c-4b4a-a421-9377a43ad1c0" />
+
+* It will open a new window showing the SharePoint Admin center. Click on the migration and then select Google Workspace to migrate Google Workspace drive content to OneDrive for business.
+
+<img width="940" height="416" alt="image" src="https://github.com/user-attachments/assets/a441aa23-129e-4bfe-afc9-2b311617cec4" />
+
+* Now it will show a window for “Migrate your Google Workspace content to Microsoft 365”, In this window first you need to click on Connect to Google workspace to connect your Google Workspace account
+
+<img width="940" height="418" alt="image" src="https://github.com/user-attachments/assets/960cc7d4-64a0-4ab0-91dd-e10674a8fb7d" />
+
+
+
+

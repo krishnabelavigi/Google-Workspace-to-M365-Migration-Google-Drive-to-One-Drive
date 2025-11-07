@@ -42,6 +42,8 @@
 
 * Now go back to SharePoint Admin center to complete the migration of Google Drive content to OneDrive and click on the next button.
 
+# **2.	Connect to Google Workspace to Migrate Google Drive to OneDrive**
+
 
 
 

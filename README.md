@@ -36,6 +36,14 @@
 
 <img width="940" height="476" alt="image" src="https://github.com/user-attachments/assets/45e6b221-e4ad-4e94-8931-a0c2c603bc31" />
 
+* You will get a confirmation of the migration app installation. Click on the done button.
+
+<img width="810" height="577" alt="image" src="https://github.com/user-attachments/assets/f840a22c-20dd-475b-bc4a-2447f4e3df74" />
+
+* Now go back to SharePoint Admin center to complete the migration of Google Drive content to OneDrive and click on the next button.
+
+
+
 
 
 

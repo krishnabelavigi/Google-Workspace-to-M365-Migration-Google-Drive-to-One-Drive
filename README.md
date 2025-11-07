@@ -24,6 +24,22 @@
 
 <img width="940" height="418" alt="image" src="https://github.com/user-attachments/assets/960cc7d4-64a0-4ab0-91dd-e10674a8fb7d" />
 
+* Once you click on the Connect to Google Workspace, you will see a window showing Install the migration app. Click on the install and authorize to install the migration app in the Google workspace domain.
+
+<img width="940" height="566" alt="image" src="https://github.com/user-attachments/assets/4cf25678-7a9b-4a1a-84ac-8921995c1d65" />
+
+* Once you click on Install and authorize, it will take you to the Google Workspace marketplace to install the migration app. Click on Admin Install. A popup window will open asking for Admin Install permission. Click on the continue button. **Note: **You will need to log in using Google Workspace Admin login credentials.
+
+<img width="940" height="444" alt="image" src="https://github.com/user-attachments/assets/45b24a3f-4db2-47e0-8e1b-51c2523262d6" />
+
+* A new window will open showing permissions, click on the Everyone at your Organization under Install the app automatically for the following users. And check on I agree and click finish to complete the installation.
+
+<img width="940" height="476" alt="image" src="https://github.com/user-attachments/assets/45e6b221-e4ad-4e94-8931-a0c2c603bc31" />
+
+
+
+
+
 
 
 

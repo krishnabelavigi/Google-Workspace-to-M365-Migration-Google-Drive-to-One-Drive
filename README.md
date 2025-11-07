@@ -54,6 +54,46 @@
 
 <img width="940" height="498" alt="image" src="https://github.com/user-attachments/assets/110314a3-33d4-4d78-bdca-f88e914f8491" />
 
+# **3.	Scan Google Workspace Drives**
+
+* Now in the SharePoint Admin Center, scroll down and click on add source path in the Scans tab. A new window will open select “Look for new users and groups in Google Workspace”, choose Automatically scan content and click on the Add button.
+
+<img width="940" height="456" alt="image" src="https://github.com/user-attachments/assets/894d1baf-57cd-43fa-a2f9-54496a2fdc44" />
+
+* It will start scanning for Google Workspace drive and show all drives available in the Google Workspace.
+
+<img width="940" height="453" alt="image" src="https://github.com/user-attachments/assets/0bc86cf9-a187-4a02-a760-292dd0db91dd" />
+
+* Now choose the drive or drives that you want to migrate to Microsoft 365 and click on Copy to Migrations. A new pop-up window will open showing drive confirmation. Again, click Copy to Migrations to move further.
+
+<img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/e608af5c-1282-45a1-83ef-00d313bb722e" />
+
+* Now click on the Migrations tab to migrate Google Workspace content to Office 365.
+
+<img width="940" height="519" alt="image" src="https://github.com/user-attachments/assets/f385e8be-fd1d-4f71-8a25-050f974c3671" />
+
+* If you need to change the destination path, click on the task. A new window will open showing migration details. Click on edit under the Destination.
+
+<img width="940" height="516" alt="image" src="https://github.com/user-attachments/assets/2d9fa9da-014b-48ea-b840-a04c027b0d91" />
+
+* Now select the destination as OneDrive to migrate Google Drive to OneDrive and select account. And create folder if needed and click on the save path.
+
+<img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/43827791-61da-409c-92ab-66fcb7db2c4e" />
+
+**Note:** You need to perform this step for every user if you want to change the destination path for every user. Make sure One Drive is setup for every destination user.
+
+•	Now click on map identities. A Map Identities window will open.
+•	Click on the Domain field if you want to change domain of the Microsoft 365, otherwise leave it unchanged.
+•	In Groups, if you have groups in Google Workspace, then select it and map the group.
+
+
+
+
+
+
+
+
+
 
 
 

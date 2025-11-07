@@ -28,7 +28,7 @@
 
 <img width="940" height="566" alt="image" src="https://github.com/user-attachments/assets/4cf25678-7a9b-4a1a-84ac-8921995c1d65" />
 
-* Once you click on Install and authorize, it will take you to the Google Workspace marketplace to install the migration app. Click on Admin Install. A popup window will open asking for Admin Install permission. Click on the continue button. **Note: **You will need to log in using Google Workspace Admin login credentials.
+* Once you click on Install and authorize, it will take you to the Google Workspace marketplace to install the migration app. Click on Admin Install. A popup window will open asking for Admin Install permission. Click on the continue button. **Note:** You will need to log in using Google Workspace Admin login credentials.
 
 <img width="940" height="444" alt="image" src="https://github.com/user-attachments/assets/45b24a3f-4db2-47e0-8e1b-51c2523262d6" />
 
